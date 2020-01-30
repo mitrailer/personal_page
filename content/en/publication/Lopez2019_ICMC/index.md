@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Choice Modelling Conference 2019*, Kobe, Japan"
-publication_short: "ICMC"
+publication_short: ""
 
 abstract: A federated learning model over the Blockchain for Smart Mobility Data-market (BSMD) is presented and tested by developing a machine learning algorithm for mode inference. The BSMD is a flexible blockchain framework for transportation data transactions aimed to solve the privacy, security, and management issues related to the sharing of ubiquitous mobility information. A federated learning process is integrated into BSMD, where transactions of information are self-enforced by *smart contracts* and *peer-to-peer* communications are used to transfer machine learning models. The mode is inferred by distributing a Convolutional Neural Network algorithm, which is trained locally on the devices of the participants of the federated learning process. A scenario is presented in where 10 participants collectively but privately train the CNN and achieve the same accuracy as the conventional centralized training.
 

@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*5th IEEE Annual International Smart Cities Conference (ISC2 2019)*, Casablanca, Moroco"
-publication_short: "ISC2"
+publication_short: ""
 
 abstract: A generalized distributed tool for mobility choice modelling is presented, where participants do not share personal raw data and computations are done locally. Participants use Blockchain based Smart Mobility Data-market (BSMD), where all transactions are secure and private. Nodes in blockchain can transact information with other participants as long as both parties agree to the transaction rules issued by the owner of the data. A case study is presented where a mode choice model is distributed and estimated over BSMD. As an example, the parameter estimation problem is solved on a distributed version of simulated annealing. It is demonstrated that the estimated model parameters are consistent and reproducible.
 
