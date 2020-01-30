@@ -25,12 +25,16 @@ abstract: Blockchain has the potential to render the transaction of information 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Blockchain
+- Privacy
+- Cybersecurity
+- Mobilty
+- Big Data 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: "arXiv"
+   url: "https://arxiv.org/abs/1906.06435"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -43,9 +47,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Elsevier**](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -59,16 +63,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
