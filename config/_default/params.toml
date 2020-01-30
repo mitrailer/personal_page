@@ -86,18 +86,18 @@ phone = "(+52) 55 56 233 500 ext 8373"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Torre de Ingeniería, Circuito Escolar", city = "CDMX", region = "CDMX", postcode = "04510", country = "Mexico", country_code = "MX"}
+address = {street = "Torre de Ingeniería piso 2 ala Norte, Circuito Escolar", city = "CDMX", region = "CDMX", postcode = "04510", country = "Mexico", country_code = "MX"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "19.329720", longitude = "-99.182232"} 
 
 # Directions for visitors to locate you.
-directions = "Entra al edificio sube a segundo piso y a tu mano izquierda esta mi oficina"
+# directions = "Entra al edificio sube a segundo piso y a tu mano izquierda esta mi oficina"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Lunes a Viernes 11:00 to 13:30"]
+office_hours = ["Monday to Friday 11:00 to 13:30"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

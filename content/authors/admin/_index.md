@@ -10,30 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Investigador Asociado
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Grupo de Investigación en Ingeniería de Transporte y Logística del Instituto de Ingeniería de la UNAM
+- name: GiiTraL, Instituto de Ingeniería, UNAM
   url: "http://giitral.iingen.unam.mx/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Me dedico a la investigación Sistemas Inteligentes de Información al Viajero y tengo particular interes en el uso de blockchain para el manejor y la privacidad de datos de transporte.
+bio: My interests involve the development of 3rd generation Advanced Traveler Information Systems often called Intelligent Traveler Information Systems. I'm also deeply interested in the use of blockchain for privacy and data transactions.
 
 interests:
-- Sistemas Inteligentes de Información al Viajero
-- Blockchain
-- Algortimos personalizados de ruteo
+- Intelligent Traveller Information Systems (ITIS)
+- Blockchain for smart mobility data-markets
+- Personalized routing algorithms
 
 education:
   courses:
-  - course: Doctorado en Ingeniería de Sistemas (Transporte)
+  - course: Ph.D. on Engineering
     institution: Universidad Nacional Autónoma de México
     year: 2017
-  - course: Maestría in Artificial Intelligence
+  - course: M.Eng. on Engineering
     institution: Universidad Nacional Autónoma de México
     year: 2011
-  - course: Matemáticas
+  - course: Bachelor of Mathematics
     institution: Universidad Nacional Autónoma de México
     year: 2004
 
@@ -51,6 +51,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=lPvrWhEAAAAJ&hl=en
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/lopez_d_1.html
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/david-lopez31/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6509-9185
 - icon: github
   icon_pack: fab
   link: https://github.com/mitrailer
