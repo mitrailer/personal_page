@@ -1,10 +1,10 @@
 ---
-title: "Privacy-Aware Distributed Mobility Choice Modelling over Blockchain"
+title: "A blockchain framework for smart mobility"
 authors:
 - admin
 - Bilal Farooq
-date: "2019-10-17T00:00:00Z"
-doi: ""
+date: "2018-09-13T00:00:00Z"
+doi: "10.1109/ISC2.2018.8656927"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-06T00:00:00Z"
@@ -16,25 +16,27 @@ publishDate: "2020-01-06T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*5th IEEE Annual International Smart Cities Conference (ISC2 2019)*, Casablanca, Moroco"
+publication: "*Transportation Research Board 98th Annual Meeting*, Washington DC, United States"
 publication_short: ""
 
-abstract: A generalized distributed tool for mobility choice modelling is presented, where participants do not share personal raw data and computations are done locally. Participants use Blockchain based Smart Mobility Data-market (BSMD), where all transactions are secure and private. Nodes in blockchain can transact information with other participants as long as both parties agree to the transaction rules issued by the owner of the data. A case study is presented where a mode choice model is distributed and estimated over BSMD. As an example, the parameter estimation problem is solved on a distributed version of simulated annealing. It is demonstrated that the estimated model parameters are consistent and reproducible.
+abstract: A blockchain framework is presented for addressing the privacy and security challenges associated with the Big Data in smart mobility. It is composed of individuals, companies, government and universities where all the participants collect, own, and control their data. Each participant shares their encrypted data to the blockchain network and can make information transactions with other participants as long as both party agrees to the transaction rules (smart contract) issued by the owner of the data. Data ownership, transparency, auditability and access control are the core principles of the proposed blockchain for smart mobility Big Data.
 
 # Summary. An optional shortened abstract.
-summary: A generalized distributed tool for mobility choice modelling is presented, where participants do not share personal raw data.
+summary: A blockchain framework for smart mobility is presented.
 
 tags:
 - blockchain
-- mode choice
-- distributed process
+- privacy
+- security
+- mobility
+- big data
 - IEEE
 
 featured: false
 
 links:
  - name: "arXiv"
-   url: "https://arxiv.org/abs/1908.03446v2"
+   url: "https://arxiv.org/abs/1809.05785"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -47,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**IEEE**](https://ieee-isc2.org/)'
+  caption: 'Image credit: [**IEEE**](https://www.ieee.org/)'
   focal_point: ""
   preview_only: true
 

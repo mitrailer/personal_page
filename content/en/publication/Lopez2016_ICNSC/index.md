@@ -1,10 +1,10 @@
 ---
-title: "Privacy-Aware Distributed Mobility Choice Modelling over Blockchain"
+title: "Transport network models for routing algorithms"
 authors:
 - admin
-- Bilal Farooq
-date: "2019-10-17T00:00:00Z"
-doi: ""
+- Angélica Lozano
+date: "2016-04-13T00:00:00Z"
+doi: "10.1109/ICNSC.2016.7479011"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-06T00:00:00Z"
@@ -16,25 +16,27 @@ publishDate: "2020-01-06T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*5th IEEE Annual International Smart Cities Conference (ISC2 2019)*, Casablanca, Moroco"
+publication: "*2016 IEEE 13th International Conference on Networking, Sensing, and Control (ICNSC)*, Mexico City, Mexico"
 publication_short: ""
 
-abstract: A generalized distributed tool for mobility choice modelling is presented, where participants do not share personal raw data and computations are done locally. Participants use Blockchain based Smart Mobility Data-market (BSMD), where all transactions are secure and private. Nodes in blockchain can transact information with other participants as long as both parties agree to the transaction rules issued by the owner of the data. A case study is presented where a mode choice model is distributed and estimated over BSMD. As an example, the parameter estimation problem is solved on a distributed version of simulated annealing. It is demonstrated that the estimated model parameters are consistent and reproducible.
+abstract: Six techniques to model transport networks for routing algorithms are discussed. Methods are compared in two tables, the main characteristics of the six models are presented in the first table and the strength and weakness of the discussed models are presented in the second table. It was identified that for routing applications on a multimodal transportation network, a set of minimum criteria are required.
 
 # Summary. An optional shortened abstract.
-summary: A generalized distributed tool for mobility choice modelling is presented, where participants do not share personal raw data.
+summary: Six techniques to model transport networks for routing algorithms are discussed.
 
 tags:
-- blockchain
-- mode choice
-- distributed process
+- GIS
+- geodatabase
+- models
+- multimodal
+- transport
 - IEEE
 
 featured: false
 
 links:
- - name: "arXiv"
-   url: "https://arxiv.org/abs/1908.03446v2"
+# - name: "arXiv"
+#   url: "https://arxiv.org/abs/1809.05785"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -47,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**IEEE**](https://ieee-isc2.org/)'
+  caption: 'Image credit: [**IEEE**](https://www.ieee.org/)'
   focal_point: ""
   preview_only: true
 

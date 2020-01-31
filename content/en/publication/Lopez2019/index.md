@@ -29,8 +29,10 @@ tags:
 - real-time
 - multimodal
 - transit
-- shortest-paths 
-featured: false
+- shortest-paths
+- TRA
+ 
+featured: true
 
 links:
 # - name: "arXiv"

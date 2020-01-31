@@ -31,6 +31,8 @@ tags:
 - federated learning
 - mode inference
 - privacy 
+- ICMC
+
 featured: false
 
 links:
